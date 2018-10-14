@@ -1,6 +1,6 @@
 # Computer Science Primer
 ## Welcome
-This project has been created as an assignment in an introductory education technology class. Feel free to view the lessons or check out the Wiki to see where the project is headed.
+This project has been created as an assignment in an introductory education technology class. Feel free to view the lessons or check out the Wiki to see where the project is headed. There is also a Gitter that has been created where you can post questions and leave comments.
 
 ## Motivation
 The motiviation for this project extends beyond the requirement for a class. Over my career I have worked with self-taught developers and mentored with a coding bootcamp near my home. I consistently encounter people who wonder if they are missing something by not having a traditional computer science background.
@@ -18,5 +18,8 @@ It is highly recommended to use [Anaconda](https://anaconda.com/download) to run
 - In the browser window that launches, select the lesson you would like to work through
 
 _The lessons are in order for pedagogical reasons; however, you may complete them in any order you choose_
+
+## Pull Requests
+Currently, pull requests are not being accepted since this project is an assignment for a class. As soon as the semester has ended this section will be updated with how to submit pull requests for fixes and/or new subject matter.
 
 [![Join the chat at https://gitter.im/computer-science-primer/Lobby](https://badges.gitter.im/computer-science-primer/Lobby.svg)](https://gitter.im/computer-science-primer/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
