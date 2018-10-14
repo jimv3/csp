@@ -1,4 +1,4 @@
-# Computer Science Primer
+# Computer Science Primer (CSP)
 ## Welcome
 This project has been created as an assignment in an introductory education technology class. Feel free to view the lessons or check out the Wiki to see where the project is headed. There is also a Gitter that has been created where you can post questions and leave comments.
 
