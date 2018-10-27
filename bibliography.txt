@@ -1,0 +1,3 @@
+Lambert, K. A., Nance, D. W., & Naps, T. L. (1996). Introduction to computer science with C++. West Publishing Company. 
+
+Rosen, K. H. (1999). Discrete mathematics and its applications. WCB/McGraw-Hill.
