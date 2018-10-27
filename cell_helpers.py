@@ -47,4 +47,4 @@ def load_ipython_extension(ipython):
     """
     # You can register the class itself without instantiating it.  IPython will
     # call the default constructor on it.
-ipython.register_magics(CellHelpers)
+    ipython.register_magics(CellHelpers)
