@@ -1,3 +1,7 @@
 Lambert, K. A., Nance, D. W., & Naps, T. L. (1996). Introduction to computer science with C++. West Publishing Company. 
 
 Rosen, K. H. (1999). Discrete mathematics and its applications. WCB/McGraw-Hill.
+
+Iterative Merge Sort. (2018, September 06). Retrieved from https://www.geeksforgeeks.org/iterative-merge-sort/
+
+Iterative Quick Sort. (2018, September 27). Retrieved from https://www.geeksforgeeks.org/iterative-quick-sort/
