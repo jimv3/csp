@@ -1,4 +1,3 @@
-import cell_helpers
 def q1(answer):
     if answer == "O(n)":
         return "Great job!"
