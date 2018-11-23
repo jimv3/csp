@@ -15,7 +15,7 @@ It is highly recommended to use [Anaconda](https://anaconda.com/download) to run
 - Clone this repository `git clone https://github.com/jimv3/csp.git`
 - Open a terminal window/command window in the cloned repository folder
 - Activate the appropriate python environment
-- Install jupyter and notebook (use pip or conda to install these packages)
+- Install `jupyter` and `notebook` packages (`pip install` or `conda install` work nicely)
 - Launch jupyter notebook `jupyter notebook`
 - In the browser window that launches, select the lesson you would like to work through
 
