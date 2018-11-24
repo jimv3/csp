@@ -4,6 +4,10 @@ class Node(object):
         self._next = next
 
     @property
+    def data(self):
+        return self._data
+
+    @property
     def next(self):
         return self._next
 
