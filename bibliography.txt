@@ -5,7 +5,3 @@ Rosen, K. H. (1999). Discrete mathematics and its applications. WCB/McGraw-Hill.
 Iterative Merge Sort. (2018, September 06). Retrieved from https://www.geeksforgeeks.org/iterative-merge-sort/
 
 Iterative Quick Sort. (2018, September 27). Retrieved from https://www.geeksforgeeks.org/iterative-quick-sort/
-
-AVL Tree | Set 1 (Insertion). (2018, September 28). Retrieved from https://www.geeksforgeeks.org/avl-tree-set-1-insertion/
-
-B-Tree | Set 1 (Introduction). (2018, September 06). Retrieved from https://www.geeksforgeeks.org/b-tree-set-1-introduction-2/
