@@ -22,6 +22,6 @@ It is highly recommended to use [Anaconda](https://anaconda.com/download) to run
 _The lessons are in order for pedagogical reasons; however, you may complete them in any order you choose_
 
 ## Pull Requests
-Currently, pull requests are not being accepted since this project is an assignment for a class. As soon as the semester has ended this section will be updated with how to submit pull requests for fixes and/or new subject matter.
+If you see an error or want to add content please feel free to submit a pull request! I will review any pull requests as quickly as possible.
 
 [![Join the chat at https://gitter.im/computer-science-primer/Lobby](https://badges.gitter.im/computer-science-primer/Lobby.svg)](https://gitter.im/computer-science-primer/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
